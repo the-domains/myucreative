@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Myucreative]]></title>
         <description><![CDATA[Myucreative]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/myucreative/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 26 Mar 2016 02:38:54 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 30 Mar 2016 01:46:22 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/myucreative/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/dd487caf-6204-4ded-a290-f7f43b2bacc2.jpg">]]></description>
+            <link>https://thegrid.ai/myucreative/549d5318-b923-4f8d-9596-ba5622342278/index.html</link>
+            <guid isPermaLink="false">549d5318-b923-4f8d-9596-ba5622342278</guid>
+            <pubDate>Wed, 30 Mar 2016 01:46:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/20bd5fdb-3536-4a92-be35-a6e4a0513d5b.jpg">]]></description>
-            <link>undefinedde1b5317-f911-429b-8e31-ed029bc58e2f/index.html</link>
+            <link>https://thegrid.ai/myucreative/de1b5317-f911-429b-8e31-ed029bc58e2f/index.html</link>
             <guid isPermaLink="false">de1b5317-f911-429b-8e31-ed029bc58e2f</guid>
             <pubDate>Sat, 26 Mar 2016 02:38:45 GMT</pubDate>
         </item>
